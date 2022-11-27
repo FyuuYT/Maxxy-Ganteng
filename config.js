@@ -27,12 +27,12 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/rdtyzagilz'
+global.sig = 'https://instagram.com/Fyuu_Store'
 global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
-global.sgh = 'https://github.com/gilzzbotz'
-global.sgc = 'https://chat.whatsapp.com/CxJShadfxYqCVAHHxdHSiy'
-global.swa = 'wa.me/6285730794089'
-global.swb = 'https://lynk.id/gilzzx'
+global.sgh = 'https://github.com/FyuuYT'
+global.sgc = 'https://chat.whatsapp.com/'
+global.swa = 'wa.me/6285845969519'
+global.swb = '-'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
@@ -41,18 +41,18 @@ global.povo = 'PC OWNER'
 global.pgopay = 'PC OWNER'
 global.ppulsa = 'PC OWNER'
 global.ppulsa2 = 'PC OWNER'
-global.psaweria = 'https://saweria.co/gilzzbotz'
+global.psaweria = 'PC OWNER'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282334703987'
-global.nomorown = '6285730794089'
-global.namebot = 'Gilzz MD'
-global.nameown = 'Gilzz Azaa'
+global.nomorbot = '628978271077'
+global.nomorown = '6285845969519'
+global.namebot = 'FyuuBotz'
+global.nameown = 'Fyuu Villain'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285730794089', 'Gilzz XD', 'true']
+  ['6285845969519', 'Fyuu', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'Gilzz Botz | By R Agil' //Main Watermark
-global.wm2 = 'Gilzz Tch'
-global.wm3 = 'Gilzz Tch | By Kontol'
+global.wm = 'FyuuBotz | By Fyuu' //Main Watermark
+global.wm2 = 'Fyuu Villain'
+global.wm3 = 'Fyuu Villain | By FyuuBotz'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `Gilzz Tch | ʙʏ ${global.nameown}`
-global.author = 'Gilzz MD' 
-global.packname = 'Gilzz Tch'
+global.titlebot = `FyuuBotz | ʙʏ ${global.nameown}`
+global.author = 'Fyuuu' 
+global.packname = 'Fyuu Villain'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = '03 April 2023'
+global.ultahowner = '02 Maret 2023'
 
 
 /*============== LOGO ==============*/
@@ -123,14 +123,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
-global.botintro = 'Hallo, Kenalin saya Gilz Botz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
+global.botintro = 'Yahoo, Kenalin saya FyuuBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/60e7e7ceb559e5e8dc191.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Gilzz Tch'
-global.umurowner = '15'
+global.nameowner = 'Fyuu Villain'
+global.umurowner = '14'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285730794089'
-global.pacarowner = 'Kepo amat sih;v'
+global.nomorowner = 'wa.me/6285845969519'
+global.pacarowner = 'Kepo'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -379,7 +379,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `Gilzz Tch`
+global.stickauth = `Fyuu Villain`
 
 global.multiplier = 38 // The higher, The harder levelup
 
