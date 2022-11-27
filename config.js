@@ -28,7 +28,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/Fyuu_Store'
-global.syt = 'https://youtube.com/channel/UCPH9AdS6UQImcRv6IFtQ5lg'
+global.syt = 'https://youtube.com/channel/Fyuu4062'
 global.sgh = 'https://github.com/FyuuYT'
 global.sgc = 'https://chat.whatsapp.com/'
 global.swa = 'wa.me/6285845969519'
